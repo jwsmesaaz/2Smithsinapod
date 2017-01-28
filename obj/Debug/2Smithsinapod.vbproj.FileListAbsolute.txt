@@ -1,0 +1,14 @@
+J:\Projects\Websites\2Smithsinapod2\2Smithsinapod\bin\2Smithsinapod.dll
+J:\Projects\Websites\2Smithsinapod2\2Smithsinapod\bin\2Smithsinapod.pdb
+J:\Projects\Websites\2Smithsinapod2\2Smithsinapod\bin\2Smithsinapod.xml
+J:\Projects\Websites\2Smithsinapod2\2Smithsinapod\obj\Debug\_2Smithsinapod.Resources.resources
+J:\Projects\Websites\2Smithsinapod2\2Smithsinapod\obj\Debug\2Smithsinapod.vbproj.GenerateResource.Cache
+J:\Projects\Websites\2Smithsinapod2\2Smithsinapod\obj\Debug\2Smithsinapod.dll
+J:\Projects\Websites\2Smithsinapod2\2Smithsinapod\obj\Debug\2Smithsinapod.xml
+J:\Projects\Websites\2Smithsinapod2\2Smithsinapod\obj\Debug\2Smithsinapod.pdb
+O:\Projects\Websites\2Smithsinapod2\2Smithsinapod\obj\Debug\2Smithsinapod.vbprojResolveAssemblyReference.cache
+O:\Projects\Websites\2Smithsinapod2\2Smithsinapod\obj\Debug\_2Smithsinapod.Resources.resources
+O:\Projects\Websites\2Smithsinapod2\2Smithsinapod\obj\Debug\2Smithsinapod.vbproj.GenerateResource.Cache
+O:\Projects\Websites\2Smithsinapod2\2Smithsinapod\obj\Debug\2Smithsinapod.dll
+O:\Projects\Websites\2Smithsinapod2\2Smithsinapod\obj\Debug\2Smithsinapod.xml
+O:\Projects\Websites\2Smithsinapod2\2Smithsinapod\obj\Debug\2Smithsinapod.pdb
